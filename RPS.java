@@ -1,7 +1,7 @@
 import java.util.Random;
 
 public class RPS {
-  public GameNode ROCK, PAPER, SCISSORS;
+  public static GameNode ROCK, PAPER, SCISSORS;
   private final Random r;
 
   public RPS(int seed) {

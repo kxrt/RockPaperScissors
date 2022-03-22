@@ -23,6 +23,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -38,6 +39,7 @@
       <workItem from="1647933914432" duration="105000" />
       <workItem from="1647934066337" duration="48000" />
       <workItem from="1647934153413" duration="14000" />
+      <workItem from="1647934237975" duration="107000" />
     </task>
     <servers />
   </component>
