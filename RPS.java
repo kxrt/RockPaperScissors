@@ -22,9 +22,4 @@ public class RPS {
     GameNode com = new GameNode[]{ROCK, PAPER, SCISSORS}[r.nextInt(3)];
     return com == g ? "Tie!" : com.next == g ? "Computer wins!" : "You win!";
   }
-
-  public static void main(String[] args) {
-    RPS r = new RPS(2);
-    System.out.println(r.play(r.ROCK));
-  }
 }
